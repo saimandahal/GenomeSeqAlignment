@@ -1,0 +1,5 @@
+Command prompt script:
+
+g++ -std=c++17 -o exec main.cpp
+
+./exec seq_file_name alignment_choice(0: local, 1: global)
